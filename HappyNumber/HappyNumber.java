@@ -30,7 +30,7 @@ public class HappyNumber {
 
     public static void main(String[] args) {
 
-        int n = 19;
+        int n = 29;
 
         System.out.println(isHappy(n));
     }
