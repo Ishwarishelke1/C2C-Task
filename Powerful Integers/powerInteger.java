@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class powerfulInteger {
+public class powerInteger {
 
     public static List<Integer> powerfulIntegers(int x, int y, int bound) {
 
