@@ -1,8 +1,8 @@
 import java.util.*;
 
-public class powerInteger {
+public class powerfulIntegers {
 
-    public static List<Integer> powerfulIntegers(int x, int y, int bound) {
+    public static List<Integer> powerfulInteger(int x, int y, int bound) {
 
         Set<Integer> set = new HashSet<>();
 
@@ -33,7 +33,7 @@ public class powerInteger {
         int y = 3;
         int bound = 10;
 
-        List<Integer> result = powerfulIntegers(x, y, bound);
+        List<Integer> result = powerfulInteger(x, y, bound);
 
         System.out.println(result);
     }
